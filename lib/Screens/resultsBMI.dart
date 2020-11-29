@@ -29,7 +29,7 @@ final String bmiDescription;
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
             SizedBox(
-              height: 30.0,
+              height: 29.0,
             ),
             Text('YOUR RESULTS IS ', style: kResultLabel, ),
            Container(
